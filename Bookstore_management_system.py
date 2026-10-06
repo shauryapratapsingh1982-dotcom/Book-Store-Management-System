@@ -492,6 +492,6 @@ while 1:
     if a==3:
         print("====================================")
         print("THANKYOU FOR USING OUR PROGRAM")
-        print(" Made by- Shaurya, Shashwat, Shristi")
+        print(" Made by- Shaurya Pratap Singh")
         print("====================================")
         break
